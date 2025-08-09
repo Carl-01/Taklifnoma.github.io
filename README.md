@@ -138,7 +138,7 @@
                 <div class="space-y-4">
                     <!-- Date -->
                     <div class="flex items-center space-x-4 p-4 bg-blue-50 rounded-lg border border-blue-200">
-                        <span class="text-3xl">📅</span>
+                        <span class="text-3xl">📆</span>
                         <div>
                             <h3 class="poppins font-semibold text-blue-800">Sana va Vaqt</h3>
                             <p class="dancing-script text-xl text-blue-600 font-bold">23 Avgust, 2025 - 12:00</p>
